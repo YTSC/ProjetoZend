@@ -16,15 +16,15 @@ Execute o instalador e siga os passos.
 Após ambos estiverem instalados, vá até o local onde você instalou o PHP e abra 
 o arquivo php.ini e localize as seguintes linhas:
 
-;extension=mysqli
-;extension=odbc
-;extension=openssl
-;extension=pdo_mysql
-;extension=pdo_oci
-;extension=pdo_odbc
-;extension=pdo_pgsql
-;extension=pdo_sqlite
-;extension=pgsql
+;extension=mysqli <br />
+;extension=odbc <br /> 
+;extension=openssl <br />
+;extension=pdo_mysql <br />
+;extension=pdo_oci <br />
+;extension=pdo_odbc <br />
+;extension=pdo_pgsql <br /> 
+;extension=pdo_sqlite <br /> 
+;extension=pgsql <br />
 
 Remova os ";" delas e adicione a seguinte linha caso não tenha:
 
